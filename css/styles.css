@@ -1,5 +1,5 @@
 .encabezado{
-    background-color: yellow;
+    background-color: rgb(42, 42, 252);
     max-height: 280px;
 }
 
@@ -34,7 +34,7 @@ img{
     padding: 10px;
     width: 18%;
     float: left;
-    background-color: rgb(240, 240, 167);
+    background-color: rgb(152, 152, 248);
 }
 
 .contenedorr{
@@ -46,12 +46,12 @@ img{
 .cuerpo{
     font-family: Calibri, 'Trebuchet MS', sans-serif;
     color: #3C4D69;
-    background-color: rgb(240, 240, 167);
+    background-color: rgb(152, 152, 248);
     text-align: center;
 }
 
 .pie{
-    background-color: rgb(240, 240, 167);
+    background-color:rgb(152, 152, 248);
     width: 100%;
 }
 
@@ -63,7 +63,7 @@ img{
     padding-right: 10px;
     padding-top: 3px;
     padding-bottom: 3px;
-    background-color: rgb(240, 240, 167);
+    background-color: rgb(152, 152, 248);
     width: 100%;
 }
 
